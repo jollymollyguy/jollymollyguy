@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm ROB1N 👋
 
-<!--
-**jollymollyguy/jollymollyguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Agent Builder | Nepal
 
-Here are some ideas to get you started:
+I build AI automations and agents for businesses —
+systems that handle inquiries, generate content,
+and automate workflows automatically.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Currently Building
+- AI tools for Nepali businesses
+- Automation workflows with n8n + Claude API
+
+## 🛠 Stack
+Python · JavaScript · React · n8n · Anthropic API
+
+## 📫 Contact
+jollymollyguy@gmail.com
